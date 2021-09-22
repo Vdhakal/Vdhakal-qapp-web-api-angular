@@ -2,9 +2,9 @@
     <div class="row valign-wrapper">
         <div class="col s6 offset-s3 valign">
             <div class="card-panel hoverable">
-                <div class="card-image">
+                <div class="card-title">
                     <div class="col s6">
-                        <h2>Register</h2>
+                        <h3>Register</h3>
                     </div>
                 </div>
                 <div class="card-content">
@@ -14,20 +14,20 @@
                                 <span class="material-icons-outlined prefix">
                   account_circle
                 </span>
-                                <input placeholder="Name" id="name" type="text" class="validate" #Name ngModel required/>
-                                <label for="name">Name</label>
+                                <input placeholder="Name" id="name" type="text" class="validate" #Name ngModel name="name" required />
+                                <label for=" name ">Name</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
                                 <span class="material-icons-outlined prefix"> email </span>
-                                <input placeholder="Email" id="name" type="text" class="validate" #Email ngModel required />
-                                <label for="email">Email</label>
+                                <input placeholder="Email" id="email" type="text" class="validate" #Email ngModel name="email" required ngModel name="email" [pattern]="emailPattern" />
+                                <label for=" email ">Email</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
-                                <button class="btn-large btn-submit" type="submit ">
+                                <button class="btn-large btn-submit" type="submit " [disabled]="!registrationForm.valid">
                   Start
                 </button>
                             </div>

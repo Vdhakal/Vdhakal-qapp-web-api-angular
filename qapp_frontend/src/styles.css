@@ -12,3 +12,8 @@ ul li.selected {
     background-color: #26a69a !important;
     color: #eafaf9 !important;
 }
+
+input.ng-invalid.ng-dirty {
+    border-bottom-color: #e91e63 !important;
+    box-shadow: 0 1px 0 0#e91e63 !important;
+}

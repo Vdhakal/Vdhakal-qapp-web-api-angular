@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebAPI\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebApi\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\vdhak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\vdhak\\OneDrive\\Desktop\\quiz-app\\qapp_backend\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vdhak\\AppData\\Roaming\\NuGet\\NuGet.Config",
